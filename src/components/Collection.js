@@ -17,12 +17,12 @@ export default function Collection() {
                                 <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
                                     <div className="navbar-nav">
                                         <a className="nav-item nav-link" href="/">Home</a>
-                                        <a className="nav-item nav-link" href="collection">Collection</a>
-                                        <a className="nav-item nav-link" href="shoes.html">Shoes</a>
-                                        <a className="nav-item nav-link" href="racing boots.html">Racing Boots</a>
-                                        <a className="nav-item nav-link" href="contact.html">Contact</a>
-                                        <a className="nav-item nav-link last" href="#"><img src="images/search_icon.png" /></a>
-                                        <a className="nav-item nav-link last" href="contact.html"><img src="images/shop_icon.png" /></a>
+                                        <a className="nav-item nav-link" href="Collection">Collection</a>
+                                        <a className="nav-item nav-link" href="Shoes">Shoes</a>
+                                        <a className="nav-item nav-link" href="RacingBoots">Racing Boots</a>
+                                        <a className="nav-item nav-link" href="Contact">Contact</a>
+                                        <a className="nav-item nav-link last" href="#"><img src="assets/images/search_icon.png" /></a>
+                                        <a className="nav-item nav-link last" href="contact.html"><img src="assets/images/shop_icon.png" /></a>
                                     </div>
                                 </div>
                             </nav>
