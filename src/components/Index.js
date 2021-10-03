@@ -7,7 +7,7 @@ export default function Index() {
                 <div className="container">
                     <div className="row">
                         <div className="col-sm-3">
-                            <div className="logo"><a href="#"><img src="images/logo.png" /></a></div>
+                            <div className="logo"><a href="#"><img src="assets/images/logo.png" /></a></div>
                         </div>
                         <div className="col-sm-9">
                             <nav className="navbar navbar-expand-lg navbar-light bg-light">
@@ -21,8 +21,8 @@ export default function Index() {
                                         <a className="nav-item nav-link" href="shoes.html">Shoes</a>
                                         <a className="nav-item nav-link" href="racing boots.html">Racing Boots</a>
                                         <a className="nav-item nav-link" href="contact.html">Contact</a>
-                                        <a className="nav-item nav-link last" href="#"><img src="images/search_icon.png" /></a>
-                                        <a className="nav-item nav-link last" href="contact.html"><img src="images/shop_icon.png" /></a>
+                                        <a className="nav-item nav-link last" href="#"><img src="assets/images/search_icon.png" /></a>
+                                        <a className="nav-item nav-link last" href="contact.html"><img src="assets/images/shop_icon.png" /></a>
                                     </div>
                                 </div>
                             </nav>
@@ -58,7 +58,7 @@ export default function Index() {
                                                     </div>
                                                 </div>
                                                 <div className="col-sm-5">
-                                                    <div className="shoes_img"><img src="images/running-shoes.png" /></div>
+                                                    <div className="shoes_img"><img src="assets/images/running-shoes.png" /></div>
                                                 </div>
                                             </div>
                                         </div>
@@ -79,7 +79,7 @@ export default function Index() {
                                                     </div>
                                                 </div>
                                                 <div className="col-sm-5">
-                                                    <div className="shoes_img"><img src="images/running-shoes.png" /></div>
+                                                    <div className="shoes_img"><img src="assets/images/running-shoes.png" /></div>
                                                 </div>
                                             </div>
                                         </div>
@@ -100,7 +100,7 @@ export default function Index() {
                                                     </div>
                                                 </div>
                                                 <div className="col-sm-5">
-                                                    <div className="shoes_img"><img src="images/running-shoes.png" /></div>
+                                                    <div className="shoes_img"><img src="assets/images/running-shoes.png" /></div>
                                                 </div>
                                             </div>
                                         </div>
@@ -121,7 +121,7 @@ export default function Index() {
                                                     </div>
                                                 </div>
                                                 <div className="col-sm-5">
-                                                    <div className="shoes_img"><img src="images/running-shoes.png" /></div>
+                                                    <div className="shoes_img"><img src="assets/images/running-shoes.png" /></div>
                                                 </div>
                                             </div>
                                         </div>
@@ -141,16 +141,16 @@ export default function Index() {
                             <div className="col-md-6">
                                 <div className="about-img">
                                     <button className="new_bt">New</button>
-                                    <div className="shoes-img"><img src="images/shoes-img1.png" /></div>
+                                    <div className="shoes-img"><img src="assets/images/shoes-img1.png" /></div>
                                     <p className="sport_text">Men Sports</p>
                                     <div className="dolar_text">$<strong style={{ color: '#f12a47' }}>90</strong> </div>
                                     <div className="star_icon">
                                         <ul>
-                                            <li><a href="#"><img src="images/star-icon.png" /></a></li>
-                                            <li><a href="#"><img src="images/star-icon.png" /></a></li>
-                                            <li><a href="#"><img src="images/star-icon.png" /></a></li>
-                                            <li><a href="#"><img src="images/star-icon.png" /></a></li>
-                                            <li><a href="#"><img src="images/star-icon.png" /></a></li>
+                                            <li><a href="#"><img src="assets/images/star-icon.png" /></a></li>
+                                            <li><a href="#"><img src="assets/images/star-icon.png" /></a></li>
+                                            <li><a href="#"><img src="assets/images/star-icon.png" /></a></li>
+                                            <li><a href="#"><img src="assets/images/star-icon.png" /></a></li>
+                                            <li><a href="#"><img src="assets/images/star-icon.png" /></a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -158,16 +158,16 @@ export default function Index() {
                             </div>
                             <div className="col-md-6">
                                 <div className="about-img2">
-                                    <div className="shoes-img2"><img src="images/shoes-img2.png" /></div>
+                                    <div className="shoes-img2"><img src="assets/images/shoes-img2.png" /></div>
                                     <p className="sport_text">Men Sports</p>
                                     <div className="dolar_text">$<strong style={{ color: '#f12a47' }}>90</strong> </div>
                                     <div className="star_icon">
                                         <ul>
-                                            <li><a href="#"><img src="images/star-icon.png" /></a></li>
-                                            <li><a href="#"><img src="images/star-icon.png" /></a></li>
-                                            <li><a href="#"><img src="images/star-icon.png" /></a></li>
-                                            <li><a href="#"><img src="images/star-icon.png" /></a></li>
-                                            <li><a href="#"><img src="images/star-icon.png" /></a></li>
+                                            <li><a href="#"><img src="assets/images/star-icon.png" /></a></li>
+                                            <li><a href="#"><img src="assets/images/star-icon.png" /></a></li>
+                                            <li><a href="#"><img src="assets/images/star-icon.png" /></a></li>
+                                            <li><a href="#"><img src="assets/images/star-icon.png" /></a></li>
+                                            <li><a href="#"><img src="assets/images/star-icon.png" /></a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -187,7 +187,7 @@ export default function Index() {
                     <div className="racing_shoes">
                         <div className="row">
                             <div className="col-md-8">
-                                <div className="shoes-img3"><img src="images/shoes-img3.png" /></div>
+                                <div className="shoes-img3"><img src="assets/images/shoes-img3.png" /></div>
                             </div>
                             <div className="col-md-4">
                                 <div className="sale_text"><strong>Sale <br /><span style={{ color: '#0a0506' }}>JOGING</span> <br />SHOES</strong></div>
@@ -210,15 +210,15 @@ export default function Index() {
                         <div className="col-sm-4">
                             <div className="best_shoes">
                                 <p className="best_text">Best Shoes </p>
-                                <div className="shoes_icon"><img src="images/shoes-img4.png" /></div>
+                                <div className="shoes_icon"><img src="assets/images/shoes-img4.png" /></div>
                                 <div className="star_text">
                                     <div className="left_part">
                                         <ul>
-                                            <li><a href="#"><img src="images/star-icon.png" /></a></li>
-                                            <li><a href="#"><img src="images/star-icon.png" /></a></li>
-                                            <li><a href="#"><img src="images/star-icon.png" /></a></li>
-                                            <li><a href="#"><img src="images/star-icon.png" /></a></li>
-                                            <li><a href="#"><img src="images/star-icon.png" /></a></li>
+                                            <li><a href="#"><img src="assets/images/star-icon.png" /></a></li>
+                                            <li><a href="#"><img src="assets/images/star-icon.png" /></a></li>
+                                            <li><a href="#"><img src="assets/images/star-icon.png" /></a></li>
+                                            <li><a href="#"><img src="assets/images/star-icon.png" /></a></li>
+                                            <li><a href="#"><img src="assets/images/star-icon.png" /></a></li>
                                         </ul>
                                     </div>
                                     <div className="right_part">
@@ -230,15 +230,15 @@ export default function Index() {
                         <div className="col-sm-4">
                             <div className="best_shoes">
                                 <p className="best_text">Best Shoes </p>
-                                <div className="shoes_icon"><img src="images/shoes-img5.png" /></div>
+                                <div className="shoes_icon"><img src="assets/images/shoes-img5.png" /></div>
                                 <div className="star_text">
                                     <div className="left_part">
                                         <ul>
-                                            <li><a href="#"><img src="images/star-icon.png" /></a></li>
-                                            <li><a href="#"><img src="images/star-icon.png" /></a></li>
-                                            <li><a href="#"><img src="images/star-icon.png" /></a></li>
-                                            <li><a href="#"><img src="images/star-icon.png" /></a></li>
-                                            <li><a href="#"><img src="images/star-icon.png" /></a></li>
+                                            <li><a href="#"><img src="assets/images/star-icon.png" /></a></li>
+                                            <li><a href="#"><img src="assets/images/star-icon.png" /></a></li>
+                                            <li><a href="#"><img src="assets/images/star-icon.png" /></a></li>
+                                            <li><a href="#"><img src="assets/images/star-icon.png" /></a></li>
+                                            <li><a href="#"><img src="assets/images/star-icon.png" /></a></li>
                                         </ul>
                                     </div>
                                     <div className="right_part">
@@ -250,15 +250,15 @@ export default function Index() {
                         <div className="col-sm-4">
                             <div className="best_shoes">
                                 <p className="best_text">Best Shoes </p>
-                                <div className="shoes_icon"><img src="images/shoes-img6.png" /></div>
+                                <div className="shoes_icon"><img src="assets/images/shoes-img6.png" /></div>
                                 <div className="star_text">
                                     <div className="left_part">
                                         <ul>
-                                            <li><a href="#"><img src="images/star-icon.png" /></a></li>
-                                            <li><a href="#"><img src="images/star-icon.png" /></a></li>
-                                            <li><a href="#"><img src="images/star-icon.png" /></a></li>
-                                            <li><a href="#"><img src="images/star-icon.png" /></a></li>
-                                            <li><a href="#"><img src="images/star-icon.png" /></a></li>
+                                            <li><a href="#"><img src="assets/images/star-icon.png" /></a></li>
+                                            <li><a href="#"><img src="assets/images/star-icon.png" /></a></li>
+                                            <li><a href="#"><img src="assets/images/star-icon.png" /></a></li>
+                                            <li><a href="#"><img src="assets/images/star-icon.png" /></a></li>
+                                            <li><a href="#"><img src="assets/images/star-icon.png" /></a></li>
                                         </ul>
                                     </div>
                                     <div className="right_part">
@@ -272,15 +272,15 @@ export default function Index() {
                         <div className="col-sm-4">
                             <div className="best_shoes">
                                 <p className="best_text">Sports Shoes</p>
-                                <div className="shoes_icon"><img src="images/shoes-img7.png" /></div>
+                                <div className="shoes_icon"><img src="assets/images/shoes-img7.png" /></div>
                                 <div className="star_text">
                                     <div className="left_part">
                                         <ul>
-                                            <li><a href="#"><img src="images/star-icon.png" /></a></li>
-                                            <li><a href="#"><img src="images/star-icon.png" /></a></li>
-                                            <li><a href="#"><img src="images/star-icon.png" /></a></li>
-                                            <li><a href="#"><img src="images/star-icon.png" /></a></li>
-                                            <li><a href="#"><img src="images/star-icon.png" /></a></li>
+                                            <li><a href="#"><img src="assets/images/star-icon.png" /></a></li>
+                                            <li><a href="#"><img src="assets/images/star-icon.png" /></a></li>
+                                            <li><a href="#"><img src="assets/images/star-icon.png" /></a></li>
+                                            <li><a href="#"><img src="assets/images/star-icon.png" /></a></li>
+                                            <li><a href="#"><img src="assets/images/star-icon.png" /></a></li>
                                         </ul>
                                     </div>
                                     <div className="right_part">
@@ -292,15 +292,15 @@ export default function Index() {
                         <div className="col-sm-4">
                             <div className="best_shoes">
                                 <p className="best_text">Sports Shoes</p>
-                                <div className="shoes_icon"><img src="images/shoes-img8.png" /></div>
+                                <div className="shoes_icon"><img src="assets/images/shoes-img8.png" /></div>
                                 <div className="star_text">
                                     <div className="left_part">
                                         <ul>
-                                            <li><a href="#"><img src="images/star-icon.png" /></a></li>
-                                            <li><a href="#"><img src="images/star-icon.png" /></a></li>
-                                            <li><a href="#"><img src="images/star-icon.png" /></a></li>
-                                            <li><a href="#"><img src="images/star-icon.png" /></a></li>
-                                            <li><a href="#"><img src="images/star-icon.png" /></a></li>
+                                            <li><a href="#"><img src="assets/images/star-icon.png" /></a></li>
+                                            <li><a href="#"><img src="assets/images/star-icon.png" /></a></li>
+                                            <li><a href="#"><img src="assets/images/star-icon.png" /></a></li>
+                                            <li><a href="#"><img src="assets/images/star-icon.png" /></a></li>
+                                            <li><a href="#"><img src="assets/images/star-icon.png" /></a></li>
                                         </ul>
                                     </div>
                                     <div className="right_part">
@@ -312,15 +312,15 @@ export default function Index() {
                         <div className="col-sm-4">
                             <div className="best_shoes">
                                 <p className="best_text">Sports Shoes</p>
-                                <div className="shoes_icon"><img src="images/shoes-img9.png" /></div>
+                                <div className="shoes_icon"><img src="assets/images/shoes-img9.png" /></div>
                                 <div className="star_text">
                                     <div className="left_part">
                                         <ul>
-                                            <li><a href="#"><img src="images/star-icon.png" /></a></li>
-                                            <li><a href="#"><img src="images/star-icon.png" /></a></li>
-                                            <li><a href="#"><img src="images/star-icon.png" /></a></li>
-                                            <li><a href="#"><img src="images/star-icon.png" /></a></li>
-                                            <li><a href="#"><img src="images/star-icon.png" /></a></li>
+                                            <li><a href="#"><img src="assets/images/star-icon.png" /></a></li>
+                                            <li><a href="#"><img src="assets/images/star-icon.png" /></a></li>
+                                            <li><a href="#"><img src="assets/images/star-icon.png" /></a></li>
+                                            <li><a href="#"><img src="assets/images/star-icon.png" /></a></li>
+                                            <li><a href="#"><img src="assets/images/star-icon.png" /></a></li>
                                         </ul>
                                     </div>
                                     <div className="right_part">
@@ -381,21 +381,21 @@ export default function Index() {
                     <div className="mail_section">
                         <div className="row">
                             <div className="col-sm-6 col-lg-2">
-                                <div><a href="#"><img src="images/footer-logo.png" /></a></div>
+                                <div><a href="#"><img src="assets/images/footer-logo.png" /></a></div>
                             </div>
                             <div className="col-sm-6 col-lg-2">
-                                <div className="footer-logo"><img src="images/phone-icon.png" /><span className="map_text">(71) 1234567890</span></div>
+                                <div className="footer-logo"><img src="assets/images/phone-icon.png" /><span className="map_text">(71) 1234567890</span></div>
                             </div>
                             <div className="col-sm-6 col-lg-3">
-                                <div className="footer-logo"><img src="images/email-icon.png" /><span className="map_text">Demo@gmail.com</span></div>
+                                <div className="footer-logo"><img src="assets/images/email-icon.png" /><span className="map_text">Demo@gmail.com</span></div>
                             </div>
                             <div className="col-sm-6 col-lg-3">
                                 <div className="social_icon">
                                     <ul>
-                                        <li><a href="#"><img src="images/fb-icon.png" /></a></li>
-                                        <li><a href="#"><img src="images/twitter-icon.png" /></a></li>
-                                        <li><a href="#"><img src="images/in-icon.png" /></a></li>
-                                        <li><a href="#"><img src="images/google-icon.png" /></a></li>
+                                        <li><a href="#"><img src="assets/images/fb-icon.png" /></a></li>
+                                        <li><a href="#"><img src="assets/images/twitter-icon.png" /></a></li>
+                                        <li><a href="#"><img src="assets/images/in-icon.png" /></a></li>
+                                        <li><a href="#"><img src="assets/images/google-icon.png" /></a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -409,7 +409,7 @@ export default function Index() {
                             </div>
                             <div className="col-sm-4 col-lg-2">
                                 <h2 className="shop_text">Address </h2>
-                                <div className="image-icon"><img src="images/map-icon.png" /><span className="pet_text">No 40 Baria Sreet 15/2 NewYork City, NY, United States.</span></div>
+                                <div className="image-icon"><img src="assets/images/map-icon.png" /><span className="pet_text">No 40 Baria Sreet 15/2 NewYork City, NY, United States.</span></div>
                             </div>
                             <div className="col-sm-4 col-md-6 col-lg-3">
                                 <h2 className="shop_text">Our Company </h2>
